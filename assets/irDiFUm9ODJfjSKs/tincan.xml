@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6JOt22dFJkP_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Statute and Timelines</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/6aXBLai5xi7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">WELCOME LAYOUT</name>
+			<description lang="und">WELCOME LAYOUT</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/6RTTCUXj6sv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">MAJOR POINT</name>
+			<description lang="und">MAJOR POINT</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/5m7ipjSRZd4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">New Mexico Statute allows a customer 30 days from the date of purchase to complete the transfer of ownership of a vehicle or vessel.   
+
+(Late Transfer Penalty (code 70) (§66-3-103(B))
+
+</name>
+			<description lang="und">New Mexico Statute allows a customer 30 days from the date of purchase to complete the transfer of ownership of a vehicle or vessel.   
+
+(Late Transfer Penalty (code 70) (§66-3-103(B))
+
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/6Q18sdnLYiY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">AVOID FINES AND PENALTIES
+
+Titling and registering a vehicle or vessel within the 30-day time frame will help the customer avoid late fines and penalties.
+
+</name>
+			<description lang="und">AVOID FINES AND PENALTIES
+
+Titling and registering a vehicle or vessel within the 30-day time frame will help the customer avoid late fines and penalties.
+
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/6j6d1MSE94j" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">MAJOR POINT</name>
+			<description lang="und">MAJOR POINT</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/6868lVNt61I" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">When the customer receives a Notice of Additional Requirements Letter, they have 10 days to return with the required document or information to avoid late registration penalties and late transfer fees.
+
+</name>
+			<description lang="und">When the customer receives a Notice of Additional Requirements Letter, they have 10 days to return with the required document or information to avoid late registration penalties and late transfer fees.
+
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/5aIMHpL1l3T" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What if a customer waits until the last minute?
+If a customer comes in near the end of the 30-day period and has to return because of missing documents or information, he will probably be charged the late transfer fee.
+</name>
+			<description lang="und">What if a customer waits until the last minute?
+If a customer comes in near the end of the 30-day period and has to return because of missing documents or information, he will probably be charged the late transfer fee.
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/5XHQhpOU75j" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">But that decision is up to your supervisor.
+</name>
+			<description lang="und">But that decision is up to your supervisor.
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/6BWklSRKOqY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Terri Rose
+Terri is missing some of the documentation to title and register her vehicle.
+
+A Notice of Additional Requirements Letter has been generated.
+</name>
+			<description lang="und">Terri Rose
+Terri is missing some of the documentation to title and register her vehicle.
+
+A Notice of Additional Requirements Letter has been generated.
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/5wcegreeGj1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">29 Days?
+She waited 29 days after she purchased her vehicle to come in for the transfer.
+</name>
+			<description lang="und">29 Days?
+She waited 29 days after she purchased her vehicle to come in for the transfer.
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/5ZUyoFmVQ8A" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">To Avoid the Penalty
+To avoid the penalty, Ms. Rose needs to return with her missing documentation by the end of the next business day.
+</name>
+			<description lang="und">To Avoid the Penalty
+To avoid the penalty, Ms. Rose needs to return with her missing documentation by the end of the next business day.
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/5hM7CbTf9Nc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/6Zfl45QHYnO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">At this point, your supervisor can make a decision about the late transfer fee.
+
+</name>
+			<description lang="und">At this point, your supervisor can make a decision about the late transfer fee.
+
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/6affeyxZmnk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tapestry allows a Manager to override late penalty fees and transfer fees if he determines that the 10 days should be extended.</name>
+			<description lang="und">Tapestry allows a Manager to override late penalty fees and transfer fees if he determines that the 10 days should be extended.</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/5zrhZXHibrB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Brandon Carmichael
+Brandon is missing some of the documentation to title and register his vehicle.
+
+A Notice of Additional Requirements Letter has been generated.
+</name>
+			<description lang="und">Brandon Carmichael
+Brandon is missing some of the documentation to title and register his vehicle.
+
+A Notice of Additional Requirements Letter has been generated.
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/5amJ8Wdcopd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">29 Days?
+He waited 29 days after he purchased his vehicle to come in for the transfer.
+</name>
+			<description lang="und">29 Days?
+He waited 29 days after he purchased his vehicle to come in for the transfer.
+</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/6PqotWr5buL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6JOt22dFJkP_course_id/5bVa7Xi0T8P" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">To Avoid the Penalty
+To avoid the penalty,Mr. Carmichael needs to return with his missing documentation by the end of the next business day.
+</name>
+			<description lang="und">To Avoid the Penalty
+To avoid the penalty,Mr. Carmichael needs to return with his missing documentation by the end of the next business day.
+</description>
+		</activity>
+	</activities>
+</tincan>

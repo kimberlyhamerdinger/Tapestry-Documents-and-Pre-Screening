@@ -1,0 +1,64 @@
+{
+  "version": "3.17.16117.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6aXBLai5xi7",
+      "title": "WELCOME LAYOUT",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5yNlMW7gti5",
+      "title": "Pre-screening is the process of reviewing each document before we begin a new activity in the Tapestry system. ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "67O4mQ4xCb3",
+      "title": "As agents, we are required to pre-screen all documents.",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "61ZSP9cmklJ",
+      "title": "Pre-screening helps us know we have all of the required documents and necessary information before we start an activity in Tapestry. ",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6q4AnX2ymki",
+      "title": "You may think you don't have time to pre-screen documents.  ",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5mIC1H31rw3",
+      "title": "But the fact is:  You don't have time not to!",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5rxLKJgOco5",
+      "title": "Taking the time to review the documentation first, before you begin any activity in Tapestry, decreases errors.",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6kkqpy7wvLN",
+      "title": "If you successfully pre-screen, your chances of completing your transaction accurate and timely have increased.  ",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5YWsTzjlK3u",
+      "title": "And that's a very good thing!",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

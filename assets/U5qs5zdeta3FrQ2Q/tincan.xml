@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5pXByypKanQ_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">A Word About Notes</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/6aXBLai5xi7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">WELCOME LAYOUT</name>
+			<description lang="und">WELCOME LAYOUT</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/5rxLKJgOco5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Now let’s talk about any Notes you might add to the Customer or Account Springboards in Tapestry.</name>
+			<description lang="und">Now let’s talk about any Notes you might add to the Customer or Account Springboards in Tapestry.</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/6DSl7aYK0pV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Notes are entered by agents to let other agents know what is going on with an account.  </name>
+			<description lang="und">Notes are entered by agents to let other agents know what is going on with an account.  </description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/69yONuLn330" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Notes also help the customer and the agent remember what was previously said.</name>
+			<description lang="und">Notes also help the customer and the agent remember what was previously said.</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/5uu4hTqHoL6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">If there’s an issue with an account and we’ve made good Notes - then when a customer returns, they don’t have to re-explain the situation.  </name>
+			<description lang="und">If there’s an issue with an account and we’ve made good Notes - then when a customer returns, they don’t have to re-explain the situation.  </description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/6kkqpy7wvLN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Notes added to the Customer or Account Springboards will be visible to all other MVD agents from the Customer Relationship Manager (CRM) tab on the Customer or Vehicle Springboard in Tapestry.</name>
+			<description lang="und">Notes added to the Customer or Account Springboards will be visible to all other MVD agents from the Customer Relationship Manager (CRM) tab on the Customer or Vehicle Springboard in Tapestry.</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/5elXDxItIg9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Once a Note is added, it can NEVER be removed or edited.</name>
+			<description lang="und">Once a Note is added, it can NEVER be removed or edited.</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/696dDvhaGTK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Never.</name>
+			<description lang="und">Never.</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/6UumhUSQaum" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Ms. Jones was blah blah blah blah not very nice …
+
+And then she said …
+
+And then I said …</name>
+			<description lang="und">Ms. Jones was blah blah blah blah not very nice …
+
+And then she said …
+
+And then I said …</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/5mg0R2YqX2o" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/5VyUfHPjX10" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/6F2JA9y8KTN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5pXByypKanQ_course_id/6n6wcm32Ea2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Always use professional language when leaving Notes and/or responses.</name>
+			<description lang="und">Always use professional language when leaving Notes and/or responses.</description>
+		</activity>
+	</activities>
+</tincan>

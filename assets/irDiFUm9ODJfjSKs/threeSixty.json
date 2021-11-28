@@ -1,0 +1,109 @@
+{
+  "version": "3.17.16117.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6aXBLai5xi7",
+      "title": "WELCOME LAYOUT",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6RTTCUXj6sv",
+      "title": "MAJOR POINT",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5m7ipjSRZd4",
+      "title": "New Mexico Statute allows a customer 30 days from the date of purchase to complete the transfer of ownership of a vehicle or vessel.   \n\n(Late Transfer Penalty (code 70) (§66-3-103(B))\n\n",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6Q18sdnLYiY",
+      "title": "AVOID FINES AND PENALTIES\n\nTitling and registering a vehicle or vessel within the 30-day time frame will help the customer avoid late fines and penalties.\n\n",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6j6d1MSE94j",
+      "title": "MAJOR POINT",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6868lVNt61I",
+      "title": "When the customer receives a Notice of Additional Requirements Letter, they have 10 days to return with the required document or information to avoid late registration penalties and late transfer fees.\n\n",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5aIMHpL1l3T",
+      "title": "What if a customer waits until the last minute?\r\nIf a customer comes in near the end of the 30-day period and has to return because of missing documents or information, he will probably be charged the late transfer fee.\n",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5XHQhpOU75j",
+      "title": "But that decision is up to your supervisor.\n",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6BWklSRKOqY",
+      "title": "Terri Rose\r\nTerri is missing some of the documentation to title and register her vehicle.\n\nA Notice of Additional Requirements Letter has been generated.\n",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5wcegreeGj1",
+      "title": "29 Days?\r\nShe waited 29 days after she purchased her vehicle to come in for the transfer.\n",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5ZUyoFmVQ8A",
+      "title": "To Avoid the Penalty\r\nTo avoid the penalty, Ms. Rose needs to return with her missing documentation by the end of the next business day.\n",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "5hM7CbTf9Nc",
+      "title": "Untitled Slide",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6Zfl45QHYnO",
+      "title": "At this point, your supervisor can make a decision about the late transfer fee.\n\n",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "6affeyxZmnk",
+      "title": "Tapestry allows a Manager to override late penalty fees and transfer fees if he determines that the 10 days should be extended.",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "5zrhZXHibrB",
+      "title": "Brandon Carmichael\r\nBrandon is missing some of the documentation to title and register his vehicle.\n\nA Notice of Additional Requirements Letter has been generated.\n",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "5amJ8Wdcopd",
+      "title": "29 Days?\r\nHe waited 29 days after he purchased his vehicle to come in for the transfer.\n",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "6PqotWr5buL",
+      "title": "Untitled Slide",
+      "scene_index": "1.17"
+    },
+    {
+      "id": "5bVa7Xi0T8P",
+      "title": "To Avoid the Penalty\r\nTo avoid the penalty,Mr. Carmichael needs to return with his missing documentation by the end of the next business day.\n",
+      "scene_index": "1.18"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

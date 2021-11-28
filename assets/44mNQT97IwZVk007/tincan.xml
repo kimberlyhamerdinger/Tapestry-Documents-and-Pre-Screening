@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6roOR57Ly40_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Notice of Additional Requirements Letter</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/6aXBLai5xi7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">WELCOME LAYOUT</name>
+			<description lang="und">WELCOME LAYOUT</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/5yNlMW7gti5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">When you pre-screened Ms. Jones’ documents, you determined that she didn’t have all of the documentation required to proceed with the activity.</name>
+			<description lang="und">When you pre-screened Ms. Jones’ documents, you determined that she didn’t have all of the documentation required to proceed with the activity.</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/67O4mQ4xCb3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Even though Ms. Jones is unhappy that you can’t accept the photocopy of the MCO …</name>
+			<description lang="und">Even though Ms. Jones is unhappy that you can’t accept the photocopy of the MCO …</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/61ZSP9cmklJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The fact that you pre-screened the documents is going to save both you and Ms. Jones a lot of time!</name>
+			<description lang="und">The fact that you pre-screened the documents is going to save both you and Ms. Jones a lot of time!</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/6q4AnX2ymki" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Why?</name>
+			<description lang="und">Why?</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/6URvI8bL4Kh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Because you didn’t start an activity in Tapestry first, and then discover the missing documentation later!
+
+</name>
+			<description lang="und">Because you didn’t start an activity in Tapestry first, and then discover the missing documentation later!
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/5mIC1H31rw3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">So here’s your next step:
+
+</name>
+			<description lang="und">So here’s your next step:
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/5m7ipjSRZd4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Notice of Additional Requirements Letter
+
+You’re going to generate a Notice of Additional Requirements letter from Tapestry.
+
+</name>
+			<description lang="und">Notice of Additional Requirements Letter
+
+You’re going to generate a Notice of Additional Requirements letter from Tapestry.
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/6868lVNt61I" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Start a new transaction in Tapestry so the Notice of Additional Requirements letter can be generated for the customer.
+
+</name>
+			<description lang="und">Start a new transaction in Tapestry so the Notice of Additional Requirements letter can be generated for the customer.
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/5mfpxmdVuRS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">90 DAYS
+
+This activity can be saved in Tapestry for 90 days.
+
+</name>
+			<description lang="und">90 DAYS
+
+This activity can be saved in Tapestry for 90 days.
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/5Wl3vuxQzBm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The letter lists the required documents or missing information the customer will need to gather and bring back to the office to complete their request.
+
+</name>
+			<description lang="und">The letter lists the required documents or missing information the customer will need to gather and bring back to the office to complete their request.
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/6OIozDGplxS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">10 Days
+
+The customer will have 10 days to return to the office with the required documents or information.
+
+</name>
+			<description lang="und">10 Days
+
+The customer will have 10 days to return to the office with the required documents or information.
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/6HPF39kZqSK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Go to the head of the line!
+
+The customer will not have to wait in line again when they return to the office.
+
+</name>
+			<description lang="und">Go to the head of the line!
+
+The customer will not have to wait in line again when they return to the office.
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/6fxcB5ll6tF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">And that should help save them some valuable time!
+
+</name>
+			<description lang="und">And that should help save them some valuable time!
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/5iP33HfHkIq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which is an important part of our mission!
+
+</name>
+			<description lang="und">Which is an important part of our mission!
+
+</description>
+		</activity>
+		<activity id="http://6roOR57Ly40_course_id/6CJSNon5yKz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Here’s an example letter:
+
+</name>
+			<description lang="und">Here’s an example letter:
+
+</description>
+		</activity>
+	</activities>
+</tincan>

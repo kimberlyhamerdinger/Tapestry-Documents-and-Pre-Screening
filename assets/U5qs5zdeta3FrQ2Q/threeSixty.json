@@ -1,0 +1,84 @@
+{
+  "version": "3.17.16117.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6aXBLai5xi7",
+      "title": "WELCOME LAYOUT",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5rxLKJgOco5",
+      "title": "Now let’s talk about any Notes you might add to the Customer or Account Springboards in Tapestry.",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6DSl7aYK0pV",
+      "title": "Notes are entered by agents to let other agents know what is going on with an account.  ",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "69yONuLn330",
+      "title": "Notes also help the customer and the agent remember what was previously said.",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5uu4hTqHoL6",
+      "title": "If there’s an issue with an account and we’ve made good Notes - then when a customer returns, they don’t have to re-explain the situation.  ",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6kkqpy7wvLN",
+      "title": "Notes added to the Customer or Account Springboards will be visible to all other MVD agents from the Customer Relationship Manager (CRM) tab on the Customer or Vehicle Springboard in Tapestry.",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5elXDxItIg9",
+      "title": "Once a Note is added, it can NEVER be removed or edited.",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "696dDvhaGTK",
+      "title": "Never.",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6UumhUSQaum",
+      "title": "Ms. Jones was blah blah blah blah not very nice …\n\nAnd then she said …\n\nAnd then I said …",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5mg0R2YqX2o",
+      "title": "Untitled Slide",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5VyUfHPjX10",
+      "title": "Untitled Slide",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6F2JA9y8KTN",
+      "title": "Untitled Slide",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6n6wcm32Ea2",
+      "title": "Always use professional language when leaving Notes and/or responses.",
+      "scene_index": "1.13"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

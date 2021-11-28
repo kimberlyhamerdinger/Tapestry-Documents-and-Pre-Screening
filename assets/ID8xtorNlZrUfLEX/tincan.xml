@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5nQ5NHn8eqe_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Prescreening</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5nQ5NHn8eqe_course_id/6aXBLai5xi7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">WELCOME LAYOUT</name>
+			<description lang="und">WELCOME LAYOUT</description>
+		</activity>
+		<activity id="http://5nQ5NHn8eqe_course_id/5yNlMW7gti5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pre-screening is the process of reviewing each document before we begin a new activity in the Tapestry system. </name>
+			<description lang="und">Pre-screening is the process of reviewing each document before we begin a new activity in the Tapestry system. </description>
+		</activity>
+		<activity id="http://5nQ5NHn8eqe_course_id/67O4mQ4xCb3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">As agents, we are required to pre-screen all documents.</name>
+			<description lang="und">As agents, we are required to pre-screen all documents.</description>
+		</activity>
+		<activity id="http://5nQ5NHn8eqe_course_id/61ZSP9cmklJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pre-screening helps us know we have all of the required documents and necessary information before we start an activity in Tapestry. </name>
+			<description lang="und">Pre-screening helps us know we have all of the required documents and necessary information before we start an activity in Tapestry. </description>
+		</activity>
+		<activity id="http://5nQ5NHn8eqe_course_id/6q4AnX2ymki" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">You may think you don't have time to pre-screen documents.  </name>
+			<description lang="und">You may think you don't have time to pre-screen documents.  </description>
+		</activity>
+		<activity id="http://5nQ5NHn8eqe_course_id/5mIC1H31rw3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">But the fact is:  You don't have time not to!</name>
+			<description lang="und">But the fact is:  You don't have time not to!</description>
+		</activity>
+		<activity id="http://5nQ5NHn8eqe_course_id/5rxLKJgOco5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Taking the time to review the documentation first, before you begin any activity in Tapestry, decreases errors.</name>
+			<description lang="und">Taking the time to review the documentation first, before you begin any activity in Tapestry, decreases errors.</description>
+		</activity>
+		<activity id="http://5nQ5NHn8eqe_course_id/6kkqpy7wvLN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">If you successfully pre-screen, your chances of completing your transaction accurate and timely have increased.  </name>
+			<description lang="und">If you successfully pre-screen, your chances of completing your transaction accurate and timely have increased.  </description>
+		</activity>
+		<activity id="http://5nQ5NHn8eqe_course_id/5YWsTzjlK3u" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">And that's a very good thing!</name>
+			<description lang="und">And that's a very good thing!</description>
+		</activity>
+	</activities>
+</tincan>
